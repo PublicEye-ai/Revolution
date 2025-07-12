@@ -4,7 +4,7 @@
 
   
   
-![[Architecture of Revolution.mp3]]
+![[../../../../audio/Architecture of Revolution.mp3]]
 ## I. Executive Summary
 
   

@@ -1,7 +1,7 @@
 # The Gutter and the Guillotine: Scatological Humor, Sexual Slander, and the Symbolic Destruction of the Ancien Régime
 
   
-  ![[The Gutter and the Guillotine.mp3]]
+  ![[../../../../audio/The Gutter and the Guillotine.mp3]]
 
 ## Introduction
 

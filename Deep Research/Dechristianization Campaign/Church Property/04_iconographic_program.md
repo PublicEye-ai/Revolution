@@ -1,6 +1,6 @@
 # The Republic's New Catechism: Iconoclasm and the Creation of a Revolutionary Sacred during the Dechristianization of France
 
-  ![[From Church Bells to Cannons_ The French Revolution's Symbolic War on God and State.mp3]]
+  ![[../../../../audio/From Church Bells to Cannons_ The French Revolution's Symbolic War on God and State.mp3]]
   
 
 ## Part I: The Desacralization of the Ancien Régime

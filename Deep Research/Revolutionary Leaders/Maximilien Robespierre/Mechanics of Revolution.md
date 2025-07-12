@@ -2,7 +2,7 @@
 
 # The Mechanics of Revolution: Organizational Methods, Communication Systems, and Mobilization Techniques of the French Revolution (1789-1799)
 
-  ![[The Mechanics of Revolution.mp3]]
+  ![[../../../../audio/The Mechanics of Revolution.mp3]]
   
 
 ## I. Introduction: The Revolutionary Imperative

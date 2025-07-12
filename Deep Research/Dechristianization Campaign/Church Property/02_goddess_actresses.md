@@ -1,6 +1,6 @@
 # The Goddesses of Reason: A Study in Revolutionary Symbolism, Mobilization, and Historical Memory
 
-  ![[The French Revolution's Forgotten Goddesses_ Propaganda, Politics, and the Perils of Cultural Engineering.mp3]]
+  ![[../../../../audio/The French Revolution's Forgotten Goddesses_ Propaganda, Politics, and the Perils of Cultural Engineering.mp3]]
   
 
 ## I. Introduction: The Festival of Reason as Revolutionary Theater

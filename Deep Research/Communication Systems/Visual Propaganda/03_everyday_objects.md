@@ -1,6 +1,6 @@
 # The Revolution in Hand: The Production, Distribution, and Political Life of Everyday Objects in Revolutionary France, 1789-1799
 
-  ![[The Hidden War_ How Everyday Objects Became Propaganda in the French Revolution.mp3]]
+  ![[../../../../audio/The Hidden War_ How Everyday Objects Became Propaganda in the French Revolution.mp3]]
   
 
 ## Part I: The Architecture of Revolutionary Communication

@@ -1,7 +1,7 @@
 # The Altar and the Mountain: Popular Response to Religious Transformation in Revolutionary France, 1793-1794
 
   
-  ![[Revolutionary Faith_ When France Tried to Erase God and Invent New Religions.mp3]]
+  ![[../../../../audio/Revolutionary Faith_ When France Tried to Erase God and Invent New Religions.mp3]]
 
 ## Introduction
 

@@ -1,7 +1,7 @@
 # The Unsent Letter: Secrecy, Espionage, and Communication in the French Revolution
 
   
-  ![[French Revolution Security Measures.mp3]]
+  ![[../../../../audio/French Revolution Security Measures.mp3]]
 
 ## Introduction
 

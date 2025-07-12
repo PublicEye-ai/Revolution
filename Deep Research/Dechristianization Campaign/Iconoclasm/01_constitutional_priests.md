@@ -1,6 +1,6 @@
 # The Patriot's Cassock: The Integration and Disintegration of the Constitutional Clergy in French Revolutionary Culture, 1790-1801
 
-  ![[Patriot Priests_ When Revolution and Faith Collide in France.mp3]]
+  ![[../../../../audio/Patriot Priests_ When Revolution and Faith Collide in France.mp3]]
   
 
 ## Introduction

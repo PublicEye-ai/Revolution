@@ -1,6 +1,6 @@
 # Vandalism and Value: The Destruction and Re-appropriation of Religious Art during the French Revolution
 
-  ![[The French Revolution_ Forging National Heritage from Cultural Annihilation.mp3]]
+  ![[../../../../audio/The French Revolution_ Forging National Heritage from Cultural Annihilation.mp3]]
   
 
 ## Introduction

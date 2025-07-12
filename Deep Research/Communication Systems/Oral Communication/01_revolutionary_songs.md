@@ -1,7 +1,7 @@
 # The Sonic Revolution: Music as a Tool of Organization, Communication, and Mobilization in Revolutionary France (1789-1799)
 
   
-  ![[Revolutionary Songs.mp3]]
+  ![[../../../../audio/Revolutionary Songs.mp3]]
 
 ## Introduction: The Sound of Upheaval
 

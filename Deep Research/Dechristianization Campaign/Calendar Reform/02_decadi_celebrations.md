@@ -1,7 +1,7 @@
 # The Decadary Cult: A Study in the French Revolution's Methods of Organization, Communication, and Mobilization
 
   
-  ![[From Pigs to Parsnips_ The French Revolution's Failed Attempt to Remake Time and Society.mp3]]
+  ![[../../../../audio/From Pigs to Parsnips_ The French Revolution's Failed Attempt to Remake Time and Society.mp3]]
 
 ## Introduction: Remaking Time, Remaking the Citizen
 

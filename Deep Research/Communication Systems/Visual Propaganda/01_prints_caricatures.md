@@ -1,6 +1,6 @@
 # The Visual Press of Insurrection: A Catalogue of Revolutionary Prints and Caricatures in France, 1789-1799
 
-  ![[The French Revolution's Paper War_ How Visual Propaganda Changed Everything.mp3]]
+  ![[../../../../audio/The French Revolution's Paper War_ How Visual Propaganda Changed Everything.mp3]]
   
 ## The Paper Revolution: The Explosion of Print Culture in 1789
 

@@ -1,7 +1,7 @@
 # The Price of a Nation: Religious Minorities and the Revolutionary State, 1789-1795
 
   
-  ![[French Revolution's Unraveling_ Liberty's Promise, Minority Persecution, and the Rise of the Nation-State.mp3]]
+  ![[../../../../audio/French Revolution's Unraveling_ Liberty's Promise, Minority Persecution, and the Rise of the Nation-State.mp3]]
 
 ## Introduction
 

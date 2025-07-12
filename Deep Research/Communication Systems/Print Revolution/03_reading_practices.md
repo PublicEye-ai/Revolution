@@ -1,6 +1,6 @@
 # The Revolutionary Ear: Public Reading and the Creation of a Political Consciousness in 1790s Paris
 
-  ![[The Revolutionary Cacophony_ How 18th-Century Media Forged French Citizens.mp3]]
+  ![[../../../../audio/The Revolutionary Cacophony_ How 18th-Century Media Forged French Citizens.mp3]]
   
 
 ## Introduction: The Cacophony of Revolution

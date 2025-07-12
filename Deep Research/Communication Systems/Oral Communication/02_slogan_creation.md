@@ -1,7 +1,7 @@
 # The Voice of the People, The Lesson of Kings: The Creation, Dissemination, and Evolution of Slogans in the French Revolution
 
   
-  ![[Slogans of French Revolution.mp3]]
+  ![[../../../../audio/Slogans of French Revolution.mp3]]
 
 ## Introduction: The Power of the Word in an Age of Upheaval
 

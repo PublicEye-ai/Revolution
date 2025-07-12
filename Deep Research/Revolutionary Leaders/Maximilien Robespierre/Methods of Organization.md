@@ -3,7 +3,7 @@
 # The Incorruptible's Machine: A Study of Robespierre's Methods of Organization, Communication, and Mobilization
 
   
-  ![[Incorruptibles Machine.mp3]]
+  ![[../../../../audio/Incorruptibles Machine.mp3]]
 
 ## Part I: The Architect of Virtue – The Personal Foundations of a Revolutionary Method
 

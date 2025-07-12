@@ -1,7 +1,7 @@
 # The Voice of the Street: Oratory and the Revolutionary Communication System in France, 1789-1794
 
   
-  ![[Street Orators.mp3]]
+  ![[../../../../audio/Street Orators.mp3]]
 
 ## Introduction
 

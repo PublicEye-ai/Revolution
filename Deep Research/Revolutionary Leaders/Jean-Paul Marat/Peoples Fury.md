@@ -2,7 +2,7 @@
 
 # The People's Fury: Jean-Paul Marat's Rhetoric of Insurrection in L'Ami du peuple
 
-  ![[Peoples Fury.mp3]]
+  ![[../../../../audio/Peoples Fury.mp3]]
   
 
 ## Introduction: The Voice of the Revolution's Radical Soul

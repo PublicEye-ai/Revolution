@@ -1,7 +1,7 @@
 # The Ephemeral Temple: An Architectural and Symbolic Reconstruction of Notre Dame as the Temple of Reason, 10 November 1793
 
   
-  ![[Notre Dame's Transformation_ How the French Revolution Turned a Cathedral into the _Temple of Reason_.mp3]]
+  ![[../../../../audio/Notre Dame's Transformation_ How the French Revolution Turned a Cathedral into the _Temple of Reason_.mp3]]
 
 ## Introduction: The Cathedral and the Revolution
 

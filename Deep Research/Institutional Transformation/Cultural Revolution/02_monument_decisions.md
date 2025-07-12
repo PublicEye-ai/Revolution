@@ -1,7 +1,7 @@
 # Vandalism and Patrimony: The Destruction and Preservation of Monuments during the French Revolution
 
   
-  ![[The French Revolution's Paradox_ How Destruction Forged National Heritage.mp3]]
+  ![[../../../../audio/The French Revolution's Paradox_ How Destruction Forged National Heritage.mp3]]
 
 ## Introduction: The Revolution's Janus Face - Annihilating and Consecrating the Past
 

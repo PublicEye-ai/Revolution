@@ -1,7 +1,7 @@
 # The Proliferation of the Revolutionary Press: Communication, Organization, and Ideological Warfare in 18th-Century France
 
   
-  ![[French Revolution Newspaper Analysis.mp3]]
+  ![[../../../../audio/French Revolution Newspaper Analysis.mp3]]
 
 ## Introduction: The Communications Revolution of 1789
 
