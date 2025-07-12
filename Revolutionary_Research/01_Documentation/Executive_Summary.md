@@ -151,11 +151,14 @@ Your transition from e-bike retail (Juiced Wheels) to software/education (Shop D
 
 This knowledge base contains 30+ interconnected documents providing deep dives into every aspect of revolutionary change and AI governance:
 
-- **Historical Analysis**: [[01_French_Revolution_Timeline]], [[02_Revolutionary_Patterns]]
-- **AI Systems**: [[Economic_AI]], [[Decision_Support_AI]]
-- **Implementation**: [[Phase1_Emergency]], [[Phase2_Foundation]]
-- **Templates**: [[Research_Templates/]] folder with 18 ready-to-use frameworks
-- **Modern Context**: [[08_Modern_Parallels]], [[09_Ethical_Frameworks]]
+- **Historical Analysis**: [[01_French_Revolution_Timeline]], [[02_Revolutionary_Patterns]], [[Great_Fear_Analysis]], [[Primary_Sources_Framework]]
+- **AI Systems**: [[Economic_AI]], [[Decision_Support_AI]], [[Technical_Specifications]]
+- **Implementation**: [[Phase1_Emergency]], [[Phase2_Foundation]], [[Implementation_Templates]], [[Integration_Templates]]
+- **Templates**: [[08_Research_Templates/01_Economic_Transition_Template]] through [[08_Research_Templates/18_Technology_Governance_Template]]
+- **Frameworks**: [[Foundation_Templates]], [[Structure_Templates]], [[Participation_Templates]], [[Resilience_Templates]]
+- **Modern Context**: [[08_Modern_Parallels]], [[09_Ethical_Frameworks]], [[Modern_DC_Analysis]]
+- **Deep Research**: [[French Revolution/MASTER_STRUCTURE]], [[French Revolution/RESEARCH_TEMPLATE]]
+- **Quick Start**: [[09_Quick_Start_Guides/Policy_Maker_Guide]], [[09_Quick_Start_Guides/Technical_Lead_Guide]], [[09_Quick_Start_Guides/Researcher_Guide]]
 
 ## 🔮 Future Directions
 

@@ -1,5 +1,9 @@
 # Frenchtown Revolution Research Structure
 
+**Main Research Framework**: [[Revolutionary_Research/02_Historical_Analysis/Primary_Sources_Framework]]  
+**Modern Applications**: [[Revolutionary_Research/04_AI_Governance/04_AI_Governance_Integration]]  
+**Research Templates**: [[Revolutionary_Research/08_Research_Templates/01_Economic_Transition_Template]] through [[Revolutionary_Research/08_Research_Templates/18_Technology_Governance_Template]]
+
 ## Revolutionary Leaders
 
 ### Robespierre

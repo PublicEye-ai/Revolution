@@ -31,3 +31,4 @@ Thumbs.db
 # Cache directories
 .cache/
 cache/
+.obsidian/plugins/smart-composer/data.json

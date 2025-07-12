@@ -207,6 +207,6 @@ Primary Sources:
 5. What prevents minority marginalization?
 
 ## 🔗 Related Templates:
-- [[Cultural_Integration_Template|🌍 Cultural Integration]]
-- [[Federal_Systems_Template|⚖️ Federal Systems]]
-- [[Participation_Scale_Template|🗳️ Participatory Decision-Making]]
+- [[12_Cultural_Integration_Template|🌍 Cultural Integration]]
+- [[05_Federal_Systems_Template|⚖️ Federal Systems]]
+- [[10_Participation_Scale_Template|🗳️ Participatory Decision-Making]]
