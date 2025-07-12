@@ -230,7 +230,7 @@ FEDERAL LEVEL
 5. **Transparency requirements** build trust
 
 ## 🔗 Related Resources
-- [[Foundation_Templates.md]] - Basic frameworks
-- [[Implementation_Templates.md]] - How to build
-- [[06_Implementation_Roadmap.md]] - Timeline
-- [[04_AI_Governance_Integration.md]] - AI details
+- [[Foundation_Templates]] - Basic frameworks
+- [[Implementation_Templates]] - How to build
+- [[06_Implementation_Roadmap]] - Timeline
+- [[04_AI_Governance_Integration]] - AI details

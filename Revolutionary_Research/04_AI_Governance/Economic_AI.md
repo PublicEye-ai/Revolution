@@ -199,10 +199,10 @@ class InternationalEconomicAI:
 - International cooperation protocols
 
 ## 🔗 Related Resources
-- [[Decision_Support_AI.md]] - How AI assists human economic decisions
-- [[Phase1_Emergency.md]] - Detailed emergency economic measures
-- [[Phase2_Foundation.md]] - Building new economic institutions
-- [[03_Post_Revolutionary_Stability.md]] - Broader stability framework
+- [[Decision_Support_AI]] - How AI assists human economic decisions
+- [[Phase1_Emergency]] - Detailed emergency economic measures
+- [[Phase2_Foundation]] - Building new economic institutions
+- [[03_Post_Revolutionary_Stability]] - Broader stability framework
 
 ## 📚 Implementation Checklist
 - [ ] Establish emergency resource distribution system

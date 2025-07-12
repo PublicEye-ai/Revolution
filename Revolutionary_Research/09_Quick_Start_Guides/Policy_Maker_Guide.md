@@ -13,7 +13,7 @@ Traditional governance is failing. Citizens don't trust government. Decisions la
 ### 📋 Your 5-Step Action Plan
 
 #### 1. Start Small (Month 1)
-- Pick ONE pilot from [[Pilot_Program_Designs.md]]
+- Pick ONE pilot from [[Pilot_Program_Designs]]
 - Suggested: Budget Transparency AI
 - Budget needed: ~$300,000
 - Timeline: 12 months to results
@@ -37,7 +37,7 @@ Traditional governance is failing. Citizens don't trust government. Decisions la
 - Access private data without consent
 - Operate without oversight
 #### 4. Measure Success (Months 4-12)
-Track these metrics (see [[Metrics_Dashboard.md]]):
+Track these metrics (see [[Metrics_Dashboard]]):
 - **Participation**: 10x increase in citizen engagement
 - **Trust**: 70%+ approval ratings
 - **Efficiency**: 50% faster service delivery
@@ -82,7 +82,7 @@ Track these metrics (see [[Metrics_Dashboard.md]]):
 
 ### 🚀 Your First 30 Days
 
-**Week 1**: Read [[Executive_Summary.md]] and [[Risk_Assessment_Detail.md]]
+**Week 1**: Read [[Executive_Summary]] and [[Risk_Assessment_Detail]]
 **Week 2**: Meet with IT, finance, and citizen services leaders
 **Week 3**: Host public listening session on AI governance
 **Week 4**: Present pilot proposal to council
@@ -91,10 +91,10 @@ Track these metrics (see [[Metrics_Dashboard.md]]):
 
 ### 📚 Essential Resources
 
-1. **Full Framework**: [[Comprehensive_Framework.md]]
-2. **Technical Details**: [[Technical_Specifications.md]]
-3. **Historical Lessons**: [[Modern_DC_Analysis.md]]
-4. **Implementation**: [[Pilot_Program_Designs.md]]
+1. **Full Framework**: [[Comprehensive_Framework]]
+2. **Technical Details**: [[Technical_Specifications]]
+3. **Historical Lessons**: [[Modern_DC_Analysis]]
+4. **Implementation**: [[Pilot_Program_Designs]]
 
 ---
 

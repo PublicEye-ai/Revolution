@@ -198,10 +198,10 @@ class EconomicDevelopment:
 - Diplomatic engagement
 
 ## 🔗 Related Resources
-- [[Foundation_Templates.md]] - Detailed implementation guides
-- [[Structure_Templates.md]] - Institutional blueprints
-- [[03_Post_Revolutionary_Stability.md]] - Long-term view
-- [[Economic_AI.md]] - Economic transition details
+- [[Foundation_Templates]] - Detailed implementation guides
+- [[Structure_Templates]] - Institutional blueprints
+- [[03_Post_Revolutionary_Stability]] - Long-term view
+- [[Economic_AI]] - Economic transition details
 
 ## 💡 Key Success Factors
 1. **Institutions over individuals** - Build systems that outlast founders

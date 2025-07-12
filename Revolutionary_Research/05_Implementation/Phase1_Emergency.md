@@ -195,10 +195,10 @@ class EmergencyComms:
 - **Sabotage attempts**: Rapid repair + investigation
 
 ## 🔗 Transition Planning
-- [[Phase2_Foundation.md]] - Building lasting institutions
-- [[Emergency_Economic_Measures.md]] - Detailed economic protocols
-- [[Counter_Revolution_Prevention.md]] - Security strategies
-- [[Crisis_Communication_Templates.md]] - Ready-made announcements
+- [[Phase2_Foundation]] - Building lasting institutions
+- [[Emergency_Economic_Measures]] - Detailed economic protocols
+- [[Counter_Revolution_Prevention]] - Security strategies
+- [[Crisis_Communication_Templates]] - Ready-made announcements
 
 ## 💡 Critical Success Factors
 1. **Speed beats perfection** in emergencies

@@ -201,10 +201,10 @@ Alerting Rules:
 
 ### 📚 Deep Dive Resources
 
-1. **Architecture**: [[Technical_Specifications.md]]
-2. **Implementation**: [[Pilot_Program_Designs.md]]
-3. **Metrics**: [[Metrics_Dashboard.md]]
-4. **Ethics**: [[09_Ethical_Frameworks.md]]
+1. **Architecture**: [[Technical_Specifications]]
+2. **Implementation**: [[Pilot_Program_Designs]]
+3. **Metrics**: [[Metrics_Dashboard]]
+4. **Ethics**: [[09_Ethical_Frameworks]]
 
 ---
 

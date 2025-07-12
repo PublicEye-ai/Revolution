@@ -207,6 +207,6 @@ Primary Sources:
 5. What maintains democratic control?
 
 ## 🔗 Related Templates:
-- [[Algorithmic_Decisions_Template|🤖 Algorithmic Decision Governance]]
-- [[Transparency_Template|👁️ Transparency Mechanisms]]
-- [[Participation_Scale_Template|🗳️ Participatory Decision-Making]]
+- [[08_Algorithmic_Decisions_Template|🤖 Algorithmic Decision Governance]]
+- [[09_Transparency_Template|👁️ Transparency Mechanisms]]
+- [[10_Participation_Scale_Template|🗳️ Participatory Decision-Making]]

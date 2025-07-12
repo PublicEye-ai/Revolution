@@ -260,4 +260,4 @@ def integration_risks():
 
 > "A revolution is not a dinner party, but it still needs all the courses to arrive in the right order." - Integration Wisdom
 
-**Next Steps**: Create [[Index.md]] for comprehensive cross-referencing
+**Next Steps**: See [[Index]] for comprehensive cross-referencing

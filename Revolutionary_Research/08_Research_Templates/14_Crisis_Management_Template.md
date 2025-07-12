@@ -207,6 +207,6 @@ Primary Sources:
 5. What maintains public trust during crisis?
 
 ## 🔗 Related Templates:
-- [[Error_Correction_Template|🔧 Error Correction]]
-- [[Counter_Revolution_Template|⚔️ Counter-Revolution]]
-- [[Information_Systems_Template|📡 Information Distribution]]
+- [[13_Error_Correction_Template|🔧 Error Correction]]
+- [[15_Counter_Revolution_Template|⚔️ Counter-Revolution]]
+- [[02_Information_Systems_Template|📡 Information Distribution]]

@@ -184,10 +184,10 @@ def handle_food_crisis(ai_support, human_leader):
 - AI learns **patterns**, humans set **directions**
 
 ## 🔗 Related Resources
-- [[Economic_AI.md]] - Economic decision support specifics
-- [[Phase1_Emergency.md]] - Crisis decision protocols
-- [[09_Ethical_Frameworks.md]] - Ethical constraints on AI
-- [[Research_Templates/13_Error_Correction_Template.md]] - Learning from mistakes
+- [[Economic_AI]] - Economic decision support specifics
+- [[Phase1_Emergency]] - Crisis decision protocols
+- [[09_Ethical_Frameworks]] - Ethical constraints on AI
+- [[08_Research_Templates/13_Error_Correction_Template]] - Learning from mistakes
 
 ## 💡 Key Takeaways
 1. **AI augments, never replaces** human judgment

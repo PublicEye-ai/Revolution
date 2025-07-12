@@ -223,10 +223,10 @@ def federal_structure():
 - [ ] Prepare long-term planning
 
 ## 🔗 Related Resources
-- [[Structure_Templates.md]] - Detailed organizational charts
-- [[Phase2_Foundation.md]] - Strategic overview
-- [[Implementation_Templates.md]] - Execution guides
-- [[05_Research_Templates.md]] - Research frameworks
+- [[Structure_Templates]] - Detailed organizational charts
+- [[Phase2_Foundation]] - Strategic overview
+- [[Implementation_Templates]] - Execution guides
+- [[05_Research_Templates]] - Research frameworks
 
 ## 💡 Key Design Principles
 1. **Simplicity** - Complex systems fail under stress

@@ -213,6 +213,6 @@ Primary Sources:
 5. How do we prevent transparency theater?
 
 ## 🔗 Related Templates:
-- [[Information_Systems_Template|📡 Information Systems & Decision-Making]]
-- [[Algorithmic_Decisions_Template|🤖 Algorithmic Decision-Making]]
-- [[Participation_Scale_Template|🗳️ Participatory Decision-Making]]
+- [[02_Information_Systems_Template|📡 Information Systems & Decision-Making]]
+- [[08_Algorithmic_Decisions_Template|🤖 Algorithmic Decision-Making]]
+- [[10_Participation_Scale_Template|🗳️ Participatory Decision-Making]]
