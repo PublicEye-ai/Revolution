@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "81a2973bfcc75914",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab34f9adb7cc4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2197350c6a64af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat History/Revolutionary_Research/Research_Templates/01_Economic_Transition_Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Economic_Transition_Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d740c4fe2a2b1d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "948e7e55b17bb39d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c617906972ede3b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4eee4fd570938940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5467bf8bb33dffa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.49999618530273
+  },
+  "right": {
+    "id": "5e579ea0cf57ec3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a887f061ac425a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "035e27df1a4bc255",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_education_proposals"
+            }
+          },
+          {
+            "id": "136f3c59078ee793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_education_proposals"
+            }
+          },
+          {
+            "id": "ed9ff0263e1dd230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "882912ec3a905a85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_education_proposals"
+            }
+          },
+          {
+            "id": "0ec8466cb1ac69cb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "pinned": true,
+              "icon": "search",
+              "title": "Smart Lookup"
+            }
+          },
+          {
+            "id": "e8eb3838003fda07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "pinned": true,
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          },
+          {
+            "id": "b807b30cf2cbf60f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "media-extended:Open media": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-composer:Open smart composer": false,
+      "smart-vault-visualizer:Open smart connections visualizer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "944b46f0a2699621",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a83b53b124760bf",
+        "type": "window",
+        "children": [
+          {
+            "id": "30c4829e489a8667",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6071cdbf131a451",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://revolution.publiceye.ai/Chat+History/Revolutionary_Research/Index",
+                    "title": "Index - Revolution.PublicEye.ai",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Index - Revolution.PublicEye.ai"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 585,
+        "y": 193,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e6071cdbf131a451",
+  "lastOpenFiles": [
+    "Chat History/Revolutionary_Research/Research_Templates/01_Economic_Transition_Template.md",
+    "Chat History/Revolutionary_Research/Phase8_Completion_Summary.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides/Researcher_Guide.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides/City_Manager_Guide.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides/Citizen_Advocate_Guide.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides/Technical_Lead_Guide.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides/Policy_Maker_Guide.md",
+    "Chat History/Revolutionary_Research/Quick_Start_Guides",
+    "Chat History/Revolutionary_Research/Metrics_Dashboard.md",
+    "Chat History/Revolutionary_Research/Pilot_Program_Designs.md",
+    "Chat History/Revolutionary_Research/TODO.md",
+    "Chat History/Revolutionary_Research/CHANGELOG.md",
+    "Chat History/Revolutionary_Research/Risk_Assessment_Detail.md",
+    "Chat History/Revolutionary_Research/Technical_Specifications.md",
+    "Chat History/Revolutionary_Research/Modern_DC_Analysis.md",
+    "Chat History/Revolutionary_Research/Comprehensive_Framework.md",
+    "Chat History/Revolutionary_Research/Post_Research_Framework.md",
+    "Chat History/Revolutionary_Research/Pre_Research_Framework.md",
+    "Chat History/Revolutionary_Research/Research_Templates/06_Institution_Building_Template.md",
+    "Chat History/Revolutionary_Research/Research_Templates/09_Transparency_Template.md",
+    "Chat History/Revolutionary_Research/Research_Templates/15_Counter_Revolution_Template.md",
+    "Chat History/Revolutionary_Research/01_French_Revolution_Timeline.md",
+    "Chat History/Revolutionary_Research/02_Revolutionary_Patterns.md",
+    "Chat History/Revolutionary_Research/00_Overview.md",
+    "Chat History/Revolutionary_Research/04_AI_Governance_Integration.md",
+    "Chat History/Revolutionary_Research/09_Ethical_Frameworks.md",
+    "Chat History/Revolutionary_Research/10_Further_Reading.md",
+    "Chat History/Revolutionary_Research/Research_Templates",
+    "Chat History/Revolutionary_Research",
+    "Evolution of a Revolutionary Voice.mp3",
+    "Chat History",
+    "Deep Research/Untitled",
+    "favicon-32.png",
+    "favicon - Copy.ico",
+    "favicon 1.ico",
+    "favicon.ico",
+    "favicon-192x192.png",
+    "favicon-96x96.png",
+    "From Chaos to Kilos_ The Epic Battle for the Metric System.mp3"
+  ]
+}
