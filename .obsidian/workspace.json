@@ -174,22 +174,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "smart-composer:Open smart composer": false
     }
   },
   "active": "317afe0204bba6e1",
   "lastOpenFiles": [
-    "French Revolution/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md.tmp.19751.1752357082335",
-    "French Revolution/MASTER_STRUCTURE.md.tmp.19751.1752357071393",
-    "Revolutionary_Research/05_Implementation/Implementation_Templates.md.tmp.19751.1752357057348",
-    "Revolutionary_Research/02_Historical_Analysis/01_French_Revolution_Timeline.md.tmp.19751.1752357046606",
-    "Revolutionary_Research/02_Historical_Analysis/01_French_Revolution_Timeline.md.tmp.19751.1752357040409",
-    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752357027159",
-    "Revolutionary_Research/08_Research_Templates/17_Minority_Protection_Template.md.tmp.19751.1752357010389",
-    "Revolutionary_Research/08_Research_Templates/14_Crisis_Management_Template.md.tmp.19751.1752356971598",
-    "Revolutionary_Research/08_Research_Templates/18_Technology_Governance_Template.md.tmp.19751.1752356958175",
-    "Revolutionary_Research/08_Research_Templates/09_Transparency_Template.md.tmp.19751.1752356948846",
-    "Revolutionary_Research/05_Implementation/Integration_Templates.md.tmp.19751.1752356925708",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359351589",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359329332",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359314547",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359300361",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359279780",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359261668",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359243865",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359221737",
+    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359190273",
+    "French Revolution/HANDOFF_DOCUMENT.md.tmp.19751.1752357868279",
+    "French Revolution/HANDOFF_DOCUMENT.md.tmp.19751.1752357842703",
+    "French Revolution/README.md",
     "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
     "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md",
     "Deep Research/Institutional Transformation/Legal Revolution/01_local_implementation.md",
@@ -214,7 +216,6 @@
     "Deep Research/Communication Systems/Correspondence Networks/02_security_measures.md",
     "Deep Research/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md",
     "Deep Research/Dechristianization Campaign/Alternative Religions/01_liturgy_development.md",
-    "Deep Research/Propaganda Techniques/Enforcement and Reception/02_popular_resistance.md",
     "favicon-192x192.png"
   ]
 }
