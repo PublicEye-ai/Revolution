@@ -10,6 +10,8 @@ The Frenchtown Revolution Project is a comprehensive research initiative that br
 
 **Our Core Insight**: *Collapse is easy, rebuild is hard.* While revolutionary moments can topple existing systems rapidly, building stable, legitimate replacements requires careful planning, broad participation, and adaptive governance structures.
 
+> 🌍 **Public Project**: This research is freely available at [revolution.publiceye.ai](https://revolution.publiceye.ai/README) and welcomes public participation at [github.com/PublicEye-ai/Revolution](https://github.com/PublicEye-ai/Revolution)
+
 ## 🎯 Why This Matters
 
 ### The Challenge
@@ -274,6 +276,10 @@ Imagine a world where:
 This isn't utopian fantasy—it's achievable with the right frameworks, tools, and collective will.
 
 ## 📞 Connect and Contribute
+
+### 🌐 Public Access
+- **📖 Online Documentation**: [https://revolution.publiceye.ai/README](https://revolution.publiceye.ai/README)
+- **🤝 Public Participation**: [https://github.com/PublicEye-ai/Revolution](https://github.com/PublicEye-ai/Revolution)
 
 ### 🌐 Community
 - **Discussions**: Share ideas and experiences

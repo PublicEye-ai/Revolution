@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7a75d7c64ea951bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca09410d3dd98685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d0ed9f454dc810a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a054dec59a7d4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b05273c15c0d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317afe0204bba6e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11f453fe2b19d95d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d27d1ee4a12f47c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7d1148a528df71a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed4e51334d3b4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d8f52f9f7cdd89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "14f9e6fde047d715",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "12c93731b3e0ca8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "950def75705888d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "829ababc097ddfae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3d0ed9f454dc810a",
+  "lastOpenFiles": [
+    "README.md.tmp.19751.1752356613207",
+    "README.md.tmp.19751.1752356605819",
+    "favicon 1.ico",
+    "The Production and Distribution of Newspapers .mp3",
+    "The Revolutionary Cacophony_ How 18th-Century Media Forged French Citizens.mp3",
+    "The French Revolution's Paradox_ How Destruction Forged National Heritage.mp3",
+    "The Quill and the Guillotine 1.mp3",
+    "The Hidden War_ How Everyday Objects Became Propaganda in the French Revolution.mp3",
+    "When Streets Speak_ How the French Revolution Renamed France and Rewrote History.mp3",
+    "From Church Bells to Cannons_ The French Revolution's Symbolic War on God and State.mp3",
+    "Whispers of Revolution_ How Rumors Fueled the French Uprising and the Reign of Terror.mp3",
+    "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
+    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md",
+    "Deep Research/Institutional Transformation/Legal Revolution/01_local_implementation.md",
+    "Deep Research/Revolutionary Leaders/Jean-Paul Marat/Catalysts of Transformation.md",
+    "Deep Research/Revolutionary Leaders/Camille Desmoulins/The Quill and the Guillotine.md",
+    "Deep Research/Propaganda Techniques/Enforcement and Reception/01_consumption_enforcement.md",
+    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Mechanics of Revolution.md",
+    "Deep Research/Institutional Transformation/Legal Revolution/02_marriage_inheritance.md",
+    "Deep Research/Dechristianization Campaign/Alternative Religions/02_secular_priests.md",
+    "Deep Research/Institutional Transformation/Economic Transformation/04_guild_dissolution.md",
+    "Deep Research/Dechristianization Campaign/Calendar Reform/02_decadi_celebrations.md",
+    "Deep Research/Dechristianization Campaign/Church Property/04_iconographic_program.md",
+    "Deep Research/Institutional Transformation/Legal Revolution/04_suspects_definition.md",
+    "Deep Research/Institutional Transformation/Legal Revolution/03_tribunal_procedures.md",
+    "Deep Research/Propaganda Techniques/Distribution Methods/02_illiterate_populations.md",
+    "Deep Research/Institutional Transformation/Cultural Revolution/02_monument_decisions.md",
+    "Deep Research/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
+    "Deep Research/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md",
+    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Methods of Organization.md",
+    "Deep Research/Propaganda Techniques/Message Development/02_classical_references.md",
+    "Deep Research/Communication Systems/Correspondence Networks/01_jacobin_committee.md",
+    "Deep Research/Communication Systems/Correspondence Networks/02_security_measures.md",
+    "Deep Research/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md",
+    "Deep Research/Dechristianization Campaign/Alternative Religions/01_liturgy_development.md",
+    "Deep Research/Propaganda Techniques/Enforcement and Reception/02_popular_resistance.md",
+    "favicon-192x192.png"
+  ]
+}
