@@ -4,7 +4,7 @@
 
   
   
-![[../../../../audio/The French Revolution_ How a Nation Was Radically Reshaped by Power, Propaganda, and Unthinkable Control.mp3]]
+![[../../../audio/The French Revolution_ How a Nation Was Radically Reshaped by Power, Propaganda, and Unthinkable Control.mp3]]
 ## Introduction: The French Revolution as a Case Study in Social Transformation
 
   

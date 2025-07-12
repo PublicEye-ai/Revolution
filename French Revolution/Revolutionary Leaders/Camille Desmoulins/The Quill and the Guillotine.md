@@ -2,7 +2,7 @@
 
 # The Quill and the Guillotine: Communication, Mobilization, and the Transformation of Society in the French Revolution
 
-![[../../../../audio/The Quill and the Guillotine 1.mp3]]
+![[../../../audio/The Quill and the Guillotine 1.mp3]]
 ## Introduction
 
   

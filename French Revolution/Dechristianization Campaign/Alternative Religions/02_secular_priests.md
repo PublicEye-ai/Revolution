@@ -1,6 +1,6 @@
 # The Revolutionary Pulpit: Recruitment, Ritual, and Communication in the Secular Cults of 1793-1794
 
-  ![[../../../../audio/Propaganda, Priests, and Political Performance_ France's Radical _Religious Experiments_.mp3]]
+  ![[../../../audio/Propaganda, Priests, and Political Performance_ France's Radical _Religious Experiments_.mp3]]
   
 
 ## Introduction: The Revolutionary Crucible and the Remaking of the Sacred

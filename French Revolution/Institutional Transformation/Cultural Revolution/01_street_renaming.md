@@ -1,6 +1,6 @@
 # The Republic of Streets: Toponymic Revolution in France, 1789-1799
 
-  ![[../../../../audio/When Streets Speak_ How the French Revolution Renamed France and Rewrote History.mp3]]
+  ![[../../../audio/When Streets Speak_ How the French Revolution Renamed France and Rewrote History.mp3]]
   
 
 ## Introduction: Rewriting the Urban Text

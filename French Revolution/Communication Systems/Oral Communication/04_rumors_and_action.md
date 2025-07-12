@@ -1,7 +1,7 @@
 # On Dit as Action: Rumor, Mobilization, and the Political Transformation of Revolutionary France, 1789-1794
 
   
-  ![[../../../../audio/Whispers of Revolution_ How Rumors Fueled the French Uprising and the Reign of Terror.mp3]]
+  ![[../../../audio/Whispers of Revolution_ How Rumors Fueled the French Uprising and the Reign of Terror.mp3]]
 
 ## Introduction: The Unseen Engine - Rumor as Political Catalyst in the French Revolution
 

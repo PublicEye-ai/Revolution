@@ -1,7 +1,7 @@
 # Remaking Time: The Life and Death of the French Revolutionary Calendar, 1793-1806
 
   
-  ![[../../../../audio/Remaking Time_ When Revolutionary France Tried to Redesign Reality.mp3]]
+  ![[../../../audio/Remaking Time_ When Revolutionary France Tried to Redesign Reality.mp3]]
 
 ## Introduction: The Revolution Against the Clock
 

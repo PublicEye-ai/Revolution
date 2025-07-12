@@ -1,7 +1,7 @@
 # The Double-Edged Blade: An Analysis of Revolutionary Journalism in France, 1789-1799
 
   
-  ![[../../../../audio/Revolutionary Journalism in France.mp3]]
+  ![[../../../audio/Revolutionary Journalism in France.mp3]]
 
 ## Introduction: The Medial Event of the Century
 

@@ -1,7 +1,7 @@
 # Forging the Republican Soul: The Liturgical Development of the Cult of Reason and the Cult of the Supreme Being, 1793–1794
 
   
-  ![[../../../../audio/France's Failed Faiths_ When Revolutionaries Tried to Invent God.mp3]]
+  ![[../../../audio/France's Failed Faiths_ When Revolutionaries Tried to Invent God.mp3]]
 
 ## Part I: The Crucible of Revolution: Dechristianization and the Quest for a New Faith
 

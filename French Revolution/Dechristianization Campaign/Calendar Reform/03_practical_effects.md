@@ -1,7 +1,7 @@
 # The Measure of a Revolution: The Practical and Social Consequences of the French Republican Calendar, 1793-1806
 
   
-  ![[../../../../audio/The Failed Revolution_ Why France's Radical Calendar Couldn't Conquer Time 1.mp3]]
+  ![[../../../audio/The Failed Revolution_ Why France's Radical Calendar Couldn't Conquer Time 1.mp3]]
 
 ## Introduction
 

@@ -1,7 +1,7 @@
 # The Jacobin Correspondence Network: Provincial Reporting and Central Control during the French Revolution
 
   
-  ![[../../../../audio/The Nervous System of the Revolution.mp3]]
+  ![[../../../audio/The Nervous System of the Revolution.mp3]]
 
 ## Introduction: The Nervous System of the Revolution
 

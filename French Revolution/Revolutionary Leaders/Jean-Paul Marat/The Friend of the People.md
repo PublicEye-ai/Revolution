@@ -2,7 +2,7 @@
 
 # The Friend of the People: Jean-Paul Marat's L'Aami du Peuple as a Catalyst for French Revolutionary Transformation
 
-  ![[../../../../audio/The Friend of the People.mp3]]
+  ![[../../../audio/The Friend of the People.mp3]]
 
 The French Revolution, a watershed moment in European history, was fundamentally shaped not only by political and social upheaval but also by a dramatic transformation in communication. At the heart of this media revolution stood figures like Jean-Paul Marat, whose newspaper, L'Ami du Peuple (The Friend of the People), became an indispensable instrument for mobilizing the masses and directing the course of revolutionary events. This report undertakes a comprehensive historical analysis of L'Ami du Peuple's organizational methods, communication systems, and mobilization techniques, aiming to extract actionable historical understandings about how revolutionary movements successfully transform societies through systematic organization, propaganda, and institutional reconstruction. The focus remains on specific, documented methods and techniques, drawing upon primary source evidence, quantitative data, and an analysis of both the successes and failures of Marat’s approach within the volatile context of the 1790s.
 

@@ -1,7 +1,7 @@
 # The Citizen-Priest: Marriage, Laicization, and the Revolutionary State, 1790-1801
 
   
-  ![[../../../../audio/French Revolution's Forced Marriages_ How the State Tried to Reengineer Priests.mp3]]
+  ![[../../../audio/French Revolution's Forced Marriages_ How the State Tried to Reengineer Priests.mp3]]
 
 ## Section I: The Ideological Assault on Clerical Celibacy
 

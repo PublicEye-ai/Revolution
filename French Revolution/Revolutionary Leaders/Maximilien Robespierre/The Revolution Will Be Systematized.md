@@ -2,7 +2,7 @@
 
 # The Revolution Will Be Systematized: Ideology, Communication, and Mobilization in 1790s France
 
-  ![[../../../../audio/The Revolution Will Be Systematized.mp3]]
+  ![[../../../audio/The Revolution Will Be Systematized.mp3]]
   
 
 ## Introduction: The Revolutionary Nexus of Word and Deed

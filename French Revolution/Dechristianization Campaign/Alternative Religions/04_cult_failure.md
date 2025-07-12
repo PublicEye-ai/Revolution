@@ -1,7 +1,7 @@
 # The Ephemeral Republic of Virtue: An Analysis of the Failure of Revolutionary Cults in Jacobin France
 
   
-  ![[../../../../audio/France's Failed Faiths_ The Rise and Fall of the Cults of Reason and the Supreme Being During the French Revolution.mp3]]
+  ![[../../../audio/France's Failed Faiths_ The Rise and Fall of the Cults of Reason and the Supreme Being During the French Revolution.mp3]]
 
 ## Introduction: The Revolution Against the Altar
 

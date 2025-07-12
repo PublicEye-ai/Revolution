@@ -3,7 +3,7 @@
 # Catalysts of Transformation: Organizational Methods, Communication Systems, and Mobilization Techniques in the French Revolution
 
   
-  ![[../../../../audio/Catalysts of Transformation.mp3]]
+  ![[../../../audio/Catalysts of Transformation.mp3]]
 
 ## I. Introduction: Setting the Stage for Revolution
 

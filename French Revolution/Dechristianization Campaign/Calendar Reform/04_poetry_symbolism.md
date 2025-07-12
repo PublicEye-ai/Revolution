@@ -1,7 +1,7 @@
 # The Poetry of Reason: Symbolism, Communication, and Control in the French Revolutionary Calendar
 
   
-  ![[../../../../audio/Rewriting Time_ The French Revolution's Failed Calendar and the Limits of Social Engineering.mp3]]
+  ![[../../../audio/Rewriting Time_ The French Revolution's Failed Calendar and the Limits of Social Engineering.mp3]]
 
 ## Introduction: Remaking Time, Remaking Man
 

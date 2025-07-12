@@ -3,7 +3,7 @@
 # The Evolution of a Revolutionary Voice: An Analysis of Maximilien Robespierre's Rhetorical Trajectory, 1789-1794
 
   
-  ![[../../../../audio/Evolution of a Revolutionary Voice.mp3]]
+  ![[../../../audio/Evolution of a Revolutionary Voice.mp3]]
 
 ## Introduction
 

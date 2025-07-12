@@ -1,6 +1,6 @@
 # The Nerve Center of the Revolution: An Analysis of the Jacobin Correspondence Committee's Structure, Function, and Impact
 
-  ![[../../../../audio/Jacobin Correspondence Committee Function.mp3]]
+  ![[../../../audio/Jacobin Correspondence Committee Function.mp3]]
   
 
 ## Part I: The Architecture of a Revolutionary Network

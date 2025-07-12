@@ -3,7 +3,7 @@
 # The Forging of a Republic: The Standardization of Allegorical Figures in the French Revolution
 
   
-  ![[../../../../audio/Standardization of Allegorical Figures in the French Revolution.mp3]]
+  ![[../../../audio/Standardization of Allegorical Figures in the French Revolution.mp3]]
 
 ## Introduction
 

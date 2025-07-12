@@ -2,7 +2,7 @@
 
 # The People's Friend and the People's Fury: Jean-Paul Marat's Communication of Prophecy and Violence in the French Revolution
 
-  ![[../../../../audio/Jean-Paul Marat_ How a Newspaper and Prophecy Sparked a Revolution and Weaponized Public Opinion.mp3]]
+  ![[../../../audio/Jean-Paul Marat_ How a Newspaper and Prophecy Sparked a Revolution and Weaponized Public Opinion.mp3]]
 
 ## Introduction: The Voice from the Sewer — Marat as Revolutionary Catalyst
 

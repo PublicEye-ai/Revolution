@@ -1,7 +1,7 @@
 # The Engine of Revolution: The Production and Distribution of Newspapers in 1790s Paris
 
   
-  ![[../../../../audio/The Production and Distribution of Newspapers .mp3]]
+  ![[../../../audio/The Production and Distribution of Newspapers .mp3]]
 
 ## I. Introduction: The Press as a Revolutionary Force
 

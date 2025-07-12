@@ -1,7 +1,7 @@
 # Frenchtown Revolution Research Project - Handoff Document
 
 ## Project Location
-**Main Directory:** `C:\Code\Frenchtown_Revolution\Frenchtown_Revolution\Deep Research`
+**Main Directory:** `C:\Code\Frenchtown_Revolution\French Revolution`
 
 ## What's Complete ✅
 - **112 research topics** organized into 8 main categories
@@ -10,11 +10,11 @@
   - Specific research question
   - Post-prompt instructions
 - **Complete tracking system** with CSV and Python scripts
-- **All files properly organized** in the Deep Research folder
+- **All files properly organized** in the French Revolution folder
 
 ## Project Structure
 ```
-C:\Code\Frenchtown_Revolution\Frenchtown_Revolution\Deep Research\
+C:\Code\Frenchtown_Revolution\French Revolution\
 ├── Communication Systems\
 │   ├── Correspondence Networks\ (4 topics)
 │   ├── Oral Communication\ (4 topics)
@@ -66,7 +66,7 @@ C:\Code\Frenchtown_Revolution\Frenchtown_Revolution\Deep Research\
 ## Next Steps for Research Agent
 
 ### 1. Start Research Process
-Navigate to: `C:\Code\Frenchtown_Revolution\Frenchtown_Revolution\Deep Research\Tracking`
+Navigate to: `C:\Code\Frenchtown_Revolution\French Revolution\Tracking`
 
 Run: `python check_progress.py next` to get suggested topics to research
 

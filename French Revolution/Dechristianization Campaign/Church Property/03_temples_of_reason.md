@@ -2,7 +2,7 @@
 
   
   
-![[../../../../audio/Temple of Reason.mp3]]
+![[../../../audio/Temple of Reason.mp3]]
 ## Introduction
 
   
