@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat History/what do you make of this knowledge base.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what do you make of this knowledge base"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat History/what do you make of this knowledge base.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for what do you make of this knowledge base"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat History/what do you make of this knowledge base.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from what do you make of this knowledge base"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat History/what do you make of this knowledge base.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of what do you make of this knowledge base"
+              "title": "Outline of README"
             }
           },
           {
@@ -197,18 +197,19 @@
   },
   "active": "3d0ed9f454dc810a",
   "lastOpenFiles": [
-    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752360087705",
-    "Revolutionary_Research/01_Documentation/00_Overview.md.tmp.19751.1752360017189",
-    "Revolutionary_Research/01_Documentation/00_Overview.md.tmp.19751.1752359982443",
+    "favicon-32.png",
     "Chat History/what do you make of this knowledge base.md",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359855715",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359844546",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359821203",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359807983",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359786595",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359761170",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359748892",
-    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359734950",
+    "Chat History/Collapse is Easy - Rebuild is Hard.md",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360354937",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360344997",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360317405",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360294208",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360274860",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360251834",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md.tmp.19751.1752360226699",
+    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752360153422",
+    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752360147354",
+    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752360123154",
     "French Revolution/README.md",
     "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
     "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md",
@@ -232,7 +233,6 @@
     "Deep Research/Propaganda Techniques/Message Development/02_classical_references.md",
     "Deep Research/Communication Systems/Correspondence Networks/01_jacobin_committee.md",
     "Deep Research/Communication Systems/Correspondence Networks/02_security_measures.md",
-    "Deep Research/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md",
     "favicon-192x192.png"
   ]
 }
