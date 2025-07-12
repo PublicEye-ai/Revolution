@@ -1,0 +1,56 @@
+{
+  "id": "726b11e4-3dd6-474c-b36f-c7250bb36a67",
+  "title": "What happened in july?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What happened in july?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nWhat happened in july?\n\n"
+        }
+      ],
+      "id": "729ee9e4-b190-4893-aa5a-93f0b89ce9ad",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": null
+        }
+      ]
+    }
+  ],
+  "createdAt": 1752335789168,
+  "updatedAt": 1752335789168,
+  "schemaVersion": 1
+}
