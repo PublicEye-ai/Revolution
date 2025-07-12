@@ -32,3 +32,6 @@ Thumbs.db
 .cache/
 cache/
 .obsidian/plugins/smart-composer/data.json
+.smtcmp_json_db/chats/*
+.smtcmp_json_db/chats/v1_what%20do%20you%20make%20of%20this%20knowledge%20base%3F_1752359677864_a82013a5-1116-416e-a70c-3bf846b26cac.json
+.smtcmp_json_db/chats/v1_what%20do%20you%20make%20of%20this%20knowledge%20base%3F_1752359922304_994a13df-0a8f-4583-bf3b-dc8c27f4fc26.json

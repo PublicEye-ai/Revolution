@@ -11,10 +11,14 @@
             "id": "3d0ed9f454dc810a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chat History/what do you make of this knowledge base.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "what do you make of this knowledge base"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chat History/what do you make of this knowledge base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for what do you make of this knowledge base"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chat History/what do you make of this knowledge base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from what do you make of this knowledge base"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Chat History/what do you make of this knowledge base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of what do you make of this knowledge base"
             }
           },
           {
@@ -157,13 +164,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "b325c9fe42342f5c",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 583.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,19 +195,20 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "317afe0204bba6e1",
+  "active": "3d0ed9f454dc810a",
   "lastOpenFiles": [
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359351589",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359329332",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359314547",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359300361",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359279780",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359261668",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359243865",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359221737",
-    "French Revolution/Deep Research Prompts - Gather the Details.md.tmp.19751.1752359190273",
-    "French Revolution/HANDOFF_DOCUMENT.md.tmp.19751.1752357868279",
-    "French Revolution/HANDOFF_DOCUMENT.md.tmp.19751.1752357842703",
+    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752360087705",
+    "Revolutionary_Research/01_Documentation/00_Overview.md.tmp.19751.1752360017189",
+    "Revolutionary_Research/01_Documentation/00_Overview.md.tmp.19751.1752359982443",
+    "Chat History/what do you make of this knowledge base.md",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359855715",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359844546",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359821203",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359807983",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359786595",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359761170",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359748892",
+    "Revolutionary_Research/01_Documentation/Index.md.tmp.19751.1752359734950",
     "French Revolution/README.md",
     "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
     "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md",
@@ -215,7 +233,6 @@
     "Deep Research/Communication Systems/Correspondence Networks/01_jacobin_committee.md",
     "Deep Research/Communication Systems/Correspondence Networks/02_security_measures.md",
     "Deep Research/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md",
-    "Deep Research/Dechristianization Campaign/Alternative Religions/01_liturgy_development.md",
     "favicon-192x192.png"
   ]
 }
