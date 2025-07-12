@@ -134,7 +134,11 @@ Comprehensive index for navigating the Revolutionary Research knowledge base. Fi
 - [[July_1789_Daily]] - Day-by-day analysis
 - [[Great_Fear_Analysis]] - Mass panic study
 - [[Revolution_Phases]] - Phase analysis
+- [[02_Revolutionary_Patterns]] - Pattern analysis
+- [[Primary_Sources_Framework]] - Source methodology
 - [[08_Modern_Parallels]] - Contemporary comparisons
+- **French Revolution Deep Research**: [[French Revolution/MASTER_STRUCTURE]]
+- **Revolutionary Leadership**: [[French Revolution/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution]]
 
 ### **Ethical Considerations**
 - [[09_Ethical_Frameworks]] - Ethical guidelines
@@ -161,14 +165,18 @@ Comprehensive index for navigating the Revolutionary Research knowledge base. Fi
 - AI system specs (*_AI.md)
 
 ### **Template Documents**
-- Implementation guides (*_Templates.md)
-- Research templates (Research_Templates/*.md)
-- Phase guides (Phase*.md)
+- Implementation guides: [[Implementation_Templates]], [[Integration_Templates]], [[Structure_Templates]]
+- Research templates: [[08_Research_Templates/01_Economic_Transition_Template]] through [[08_Research_Templates/18_Technology_Governance_Template]]
+- Phase guides: [[Phase1_Emergency]], [[Phase2_Foundation]], [[Phase8_Completion_Summary]]
+- Framework collections: [[Foundation_Templates]], [[Participation_Templates]], [[Resilience_Templates]]
 
 ### **Reference Documents**
 - [[07_Primary_Sources]] - Source materials
 - [[10_Further_Reading]] - Additional resources
 - [[09_Ethical_Frameworks]] - Ethical guidelines
+- [[Technical_Specifications]] - System specifications
+- [[Deep_Research_Topics]] - Advanced research areas
+- **Quick Start Guides**: [[09_Quick_Start_Guides/Policy_Maker_Guide]], [[09_Quick_Start_Guides/Technical_Lead_Guide]], [[09_Quick_Start_Guides/Researcher_Guide]]
 
 ## 🎯 Key Decision Trees
 

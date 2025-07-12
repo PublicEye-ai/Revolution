@@ -5,9 +5,10 @@ This knowledge base explores the patterns of revolution and reconstruction, draw
 ## 📚 Core Sections
 
 ### 1. [[01_French_Revolution_Timeline|📅 French Revolution Timeline]]
-- Daily breakdown of July 1789
-- Key revolutionary events
-- Modern parallels and implications
+- Daily breakdown: [[July_1789_Daily]]
+- Key revolutionary events and [[Revolution_Phases]]
+- Modern parallels: [[08_Modern_Parallels]] and implications
+- Deep analysis: [[Great_Fear_Analysis]] and [[Primary_Sources_Framework]]
 
 ### 2. [[02_Revolutionary_Patterns|🔄 Revolutionary Patterns]]
 - How revolutions unfold
