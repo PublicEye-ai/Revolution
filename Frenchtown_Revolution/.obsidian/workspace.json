@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,10 +210,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b807b30cf2cbf60f",
+  "floating": {
+    "id": "944b46f0a2699621",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a83b53b124760bf",
+        "type": "window",
+        "children": [
+          {
+            "id": "30c4829e489a8667",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6071cdbf131a451",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://revolution.publiceye.ai/Chat+History/Revolutionary_Research/Index",
+                    "title": "Index - Revolution.PublicEye.ai",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Index - Revolution.PublicEye.ai"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 585,
+        "y": 193,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e6071cdbf131a451",
   "lastOpenFiles": [
-    "Chat History/Revolutionary_Research/Phase8_Completion_Summary.md",
     "Chat History/Revolutionary_Research/Research_Templates/01_Economic_Transition_Template.md",
+    "Chat History/Revolutionary_Research/Phase8_Completion_Summary.md",
     "Chat History/Revolutionary_Research/Quick_Start_Guides/Researcher_Guide.md",
     "Chat History/Revolutionary_Research/Quick_Start_Guides/City_Manager_Guide.md",
     "Chat History/Revolutionary_Research/Quick_Start_Guides/Citizen_Advocate_Guide.md",
