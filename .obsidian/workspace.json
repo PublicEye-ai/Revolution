@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Foundation_Templates"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Foundation_Templates"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Foundation_Templates"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Foundation_Templates"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,19 +195,32 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "317afe0204bba6e1",
+  "active": "3d0ed9f454dc810a",
   "lastOpenFiles": [
-    "Revolutionary_Research/05_Implementation/Phase1_Emergency.md.tmp.19751.1752381664357",
-    "Revolutionary_Research/05_Implementation/Phase1_Emergency.md.tmp.19751.1752381575988",
-    "Revolutionary_Research/05_Implementation/Phase1_Emergency.md.tmp.19751.1752381528668",
-    "Revolutionary_Research/05_Implementation/06_Implementation_Roadmap.md.tmp.19751.1752381402970",
-    "Revolutionary_Research/05_Implementation/06_Implementation_Roadmap.md.tmp.19751.1752381363227",
-    "Revolutionary_Research/05_Implementation/06_Implementation_Roadmap.md.tmp.19751.1752381329424",
-    "Revolutionary_Research/05_Implementation/06_Implementation_Roadmap.md.tmp.19751.1752381290182",
-    "Revolutionary_Research/05_Implementation/06_Implementation_Roadmap.md.tmp.19751.1752381253448",
-    "Revolutionary_Research/04_AI_Governance/Technical_Specifications.md.tmp.19751.1752380995431",
-    "Revolutionary_Research/04_AI_Governance/Economic_AI.md.tmp.19751.1752380715341",
-    "Revolutionary_Research/04_AI_Governance/Economic_AI.md.tmp.19751.1752380695185",
+    "Revolutionary_Research/09_Quick_Start_Guides/Policy_Maker_Guide.md.tmp.19751.1752415834892",
+    "Revolutionary_Research/09_Quick_Start_Guides/Policy_Maker_Guide.md.tmp.19751.1752415826889",
+    "Revolutionary_Research/09_Quick_Start_Guides/Policy_Maker_Guide.md.tmp.19751.1752415813275",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415423738",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415392702",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415377150",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415361984",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415347371",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415330960",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415317606",
+    "Revolutionary_Research/09_Quick_Start_Guides/City_Manager_Guide.md.tmp.19751.1752415306262",
+    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md",
+    "Revolutionary_Research/05_Implementation/Phase8_Completion_Summary.md",
+    "Revolutionary_Research/05_Implementation/Phase2_Foundation.md",
+    "Revolutionary_Research/05_Implementation/Phase1_Emergency.md",
+    "Revolutionary_Research/04_AI_Governance/Technical_Specifications.md",
+    "Revolutionary_Research/04_AI_Governance/Economic_AI.md",
+    "Revolutionary_Research/04_AI_Governance/Decision_Support_AI.md",
+    "Revolutionary_Research/03_Modern_Applications/10_Further_Reading.md",
+    "Revolutionary_Research/03_Modern_Applications/Modern_DC_Analysis.md",
+    "Revolutionary_Research/03_Modern_Applications/08_Modern_Parallels.md",
+    "Revolutionary_Research/03_Modern_Applications/03_Post_Revolutionary_Stability.md",
+    "Revolutionary_Research/01_Documentation/CHANGELOG.md",
+    "README.md",
     "favicon-32.png",
     "Chat History/what do you make of this knowledge base.md",
     "Chat History/Collapse is Easy - Rebuild is Hard.md",
@@ -221,19 +234,6 @@
     "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Mechanics of Revolution.md",
     "Deep Research/Institutional Transformation/Legal Revolution/02_marriage_inheritance.md",
     "Deep Research/Dechristianization Campaign/Alternative Religions/02_secular_priests.md",
-    "Deep Research/Institutional Transformation/Economic Transformation/04_guild_dissolution.md",
-    "Deep Research/Dechristianization Campaign/Calendar Reform/02_decadi_celebrations.md",
-    "Deep Research/Dechristianization Campaign/Church Property/04_iconographic_program.md",
-    "Deep Research/Institutional Transformation/Legal Revolution/04_suspects_definition.md",
-    "Deep Research/Institutional Transformation/Legal Revolution/03_tribunal_procedures.md",
-    "Deep Research/Propaganda Techniques/Distribution Methods/02_illiterate_populations.md",
-    "Deep Research/Institutional Transformation/Cultural Revolution/02_monument_decisions.md",
-    "Deep Research/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
-    "Deep Research/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md",
-    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Methods of Organization.md",
-    "Deep Research/Propaganda Techniques/Message Development/02_classical_references.md",
-    "Deep Research/Communication Systems/Correspondence Networks/01_jacobin_committee.md",
-    "Deep Research/Communication Systems/Correspondence Networks/02_security_measures.md",
     "favicon-192x192.png"
   ]
 }
