@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
+                "file": "Revolutionary_Research/01_Documentation/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundation_Templates"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "2fa2bb22fabb3526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implementation_Templates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
+                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foundation_Templates"
+              "title": "Backlinks for Implementation_Templates"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
+                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Foundation_Templates"
+              "title": "Outgoing links from Implementation_Templates"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
+                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Foundation_Templates"
+              "title": "Outline of Implementation_Templates"
             }
           },
           {
@@ -195,19 +210,28 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "3d0ed9f454dc810a",
+  "active": "317afe0204bba6e1",
   "lastOpenFiles": [
-    "Revolutionary_Research/07_Specialized_Topics/Deep_Research_Topics.md.tmp.19751.1752422944692",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Post_Research_Framework.md.tmp.19751.1752422927915",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Post_Research_Framework.md.tmp.19751.1752422919364",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md.tmp.19751.1752422901922",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md.tmp.19751.1752422893859",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md.tmp.19751.1752422880308",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md.tmp.19751.1752422875997",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md.tmp.19751.1752422868748",
-    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752422859116",
-    "Revolutionary_Research/01_Documentation/Executive_Summary.md.tmp.19751.1752422854045",
-    "French Revolution/Communication Systems/Correspondence Networks/02_security_measures.md.tmp.19751.1752418599581",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423284793",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423280471",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423276472",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423268455",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423258788",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423253152",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423248359",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423242812",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423234414",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423229797",
+    "French Revolution/Communication Systems/Correspondence Networks/03_circular_letters.md.tmp.19751.1752423225404",
+    "Revolutionary_Research/01_Documentation/Index.md",
+    "Chat History/Collapse is Easy - Rebuild is Hard.md",
+    "Revolutionary_Research/09_Quick_Start_Guides/Researcher_Guide.md",
+    "Revolutionary_Research/01_Documentation/00_Overview.md",
+    "Revolutionary_Research/02_Historical_Analysis/01_French_Revolution_Timeline.md",
+    "Revolutionary_Research/02_Historical_Analysis/Great_Fear_Analysis.md",
+    "Revolutionary_Research/08_Research_Templates/01_Economic_Transition_Template.md",
+    "Revolutionary_Research/06_Templates_And_Frameworks/Resilience_Templates.md",
+    "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
     "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md",
     "Revolutionary_Research/05_Implementation/Phase8_Completion_Summary.md",
     "Revolutionary_Research/05_Implementation/Phase2_Foundation.md",
@@ -223,17 +247,8 @@
     "README.md",
     "favicon-32.png",
     "Chat History/what do you make of this knowledge base.md",
-    "Chat History/Collapse is Easy - Rebuild is Hard.md",
     "French Revolution/README.md",
     "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
-    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Architecture of Revolution.md",
-    "Deep Research/Institutional Transformation/Legal Revolution/01_local_implementation.md",
-    "Deep Research/Revolutionary Leaders/Jean-Paul Marat/Catalysts of Transformation.md",
-    "Deep Research/Revolutionary Leaders/Camille Desmoulins/The Quill and the Guillotine.md",
-    "Deep Research/Propaganda Techniques/Enforcement and Reception/01_consumption_enforcement.md",
-    "Deep Research/Revolutionary Leaders/Maximilien Robespierre/Mechanics of Revolution.md",
-    "Deep Research/Institutional Transformation/Legal Revolution/02_marriage_inheritance.md",
-    "Deep Research/Dechristianization Campaign/Alternative Religions/02_secular_priests.md",
     "favicon-192x192.png"
   ]
 }
