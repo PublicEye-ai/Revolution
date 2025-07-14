@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+                "file": "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation_Templates"
+              "title": "01_daily_implementation"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+                "file": "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Implementation_Templates"
+              "title": "Backlinks for 01_daily_implementation"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+                "file": "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Implementation_Templates"
+              "title": "Outgoing links from 01_daily_implementation"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+                "file": "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implementation_Templates"
+              "title": "Outline of 01_daily_implementation"
             }
           },
           {
@@ -210,19 +210,22 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "317afe0204bba6e1",
+  "active": "2fa2bb22fabb3526",
   "lastOpenFiles": [
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468613152",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468590617",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468586754",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468582688",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468577752",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468570270",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468566325",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468562239",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468557742",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468553475",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md.tmp.19751.1752468549183",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470173222",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470144686",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470137052",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470126754",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470122065",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470118037",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470112964",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470104703",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470099619",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470095188",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/03_religious_art.md.tmp.19751.1752470085905",
+    "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+    "French Revolution/Revolutionary Organizations/Paris Sections/01_operations_guide.md",
+    "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
     "Revolutionary_Research/01_Documentation/Index.md",
     "Chat History/Collapse is Easy - Rebuild is Hard.md",
     "Revolutionary_Research/09_Quick_Start_Guides/Researcher_Guide.md",
@@ -246,9 +249,6 @@
     "Revolutionary_Research/01_Documentation/CHANGELOG.md",
     "README.md",
     "favicon-32.png",
-    "Chat History/what do you make of this knowledge base.md",
-    "French Revolution/README.md",
-    "Deep Research/Institutional Transformation/Cultural Revolution/03_education_proposals.md",
     "favicon-192x192.png"
   ]
 }
