@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutionary_Research/01_Documentation/Index.md",
+                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "2fa2bb22fabb3526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/04_petitioning_campaigns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04_petitioning_campaigns"
+              "title": "02_journee_coordination"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Journee ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/04_petitioning_campaigns.md",
+                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04_petitioning_campaigns"
+              "title": "Backlinks for 02_journee_coordination"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/04_petitioning_campaigns.md",
+                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04_petitioning_campaigns"
+              "title": "Outgoing links from 02_journee_coordination"
             }
           },
           {
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/04_petitioning_campaigns.md",
+                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
                 "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "Theatrical Elements Research "
               },
               "icon": "lucide-list",
-              "title": "Outline of 04_petitioning_campaigns"
+              "title": "Outline of 02_journee_coordination"
             }
           },
           {
@@ -210,44 +196,44 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2fa2bb22fabb3526",
+  "active": "3d0ed9f454dc810a",
   "lastOpenFiles": [
-    "French Revolution/Propaganda Techniques/Message Development/04_simplification.md.tmp.19751.1752492799637",
-    "French Revolution/Propaganda Techniques/Message Development/03_religious_formats.md.tmp.19751.1752492717511",
-    "French Revolution/Propaganda Techniques/Message Development/02_classical_references.md.tmp.19751.1752492603722",
-    "French Revolution/Propaganda Techniques/Message Development/01_testing_refinement.md.tmp.19751.1752492530585",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md.tmp.19751.1752492413595",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/04_impact_measurement.md.tmp.19751.1752492375265",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md.tmp.19751.1752490580477",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md.tmp.19751.1752490546335",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/02_popular_resistance.md.tmp.19751.1752490318144",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/02_popular_resistance.md.tmp.19751.1752490273335",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/01_consumption_enforcement.md.tmp.19751.1752473617792",
-    "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
-    "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
-    "French Revolution/Revolutionary Organizations/Paris Sections/01_operations_guide.md",
-    "Revolutionary_Research/05_Implementation/Implementation_Templates.md",
+    "The Jacobin Playbook_ How the French Revolution Mastered Insurrection 1.mp3",
+    "The Jacobin Playbook_ How the French Revolution Mastered Insurrection.mp3",
+    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md",
+    "French Revolution/Propaganda Techniques/Enforcement and Reception/01_consumption_enforcement.md",
+    "French Revolution/Institutional Transformation/Governmental Restructuring/01_complete_transformation.md",
+    "French Revolution/Symbols and Rituals/Revolutionary Symbols/03_symbol_usage.md",
+    "When Red Caps and Cockades Defined a Revolution_ France's Symbol Wars.mp3",
+    "French Revolution/Revolutionary Leaders/Leadership Styles/01_powerful_speeches.md",
+    "Danton's Double-Edged Sword_ Audacity, Massacres, and the French Revolution's Roaring Voice.mp3",
+    "French Revolution/Revolutionary Leaders/Public Persona/03_le_vieux_cordelier.md",
+    "When a Pen Fought the Guillotine_ Camille Desmoulins and the Reign of Terror.mp3",
+    "French Revolution/Revolutionary Leaders/Public Persona/03_distribution_networks.md",
+    "From Street Sensation to State Weapon_ The Rise and Fall of Le Père Duchesne in the French Revolution.mp3",
+    "French Revolution/Revolutionary Leaders/Speech Techniques/04_slogans_catchphrases.md",
+    "Robespierre's Reign of Rhetoric_ How Words Forged Terror and Consumed a Revolution.mp3",
+    "French Revolution/Revolutionary Leaders/Speech Techniques/04_inflammatory_attacks.md",
+    "The _Homer of Filth__ How Hébert's Propaganda Machine Radicalized the French Revolution.mp3",
+    "French Revolution/Revolutionary Organizations/Cordeliers Club/02_street_demonstrations.md",
+    "The Cordeliers Club_ How Radical French Revolutionaries Forged and Fell by the _Eye of Vigilance_.mp3",
+    "French Revolution/Symbols and Rituals/Public Festivals/03_costs_logistics.md",
+    "French Revolution Spectacles_ From Volunteerism to Terror's Command.mp3",
+    "French Revolution/Revolutionary Leaders/Network Building/02_august_10_organization.md",
+    "French Revolution/Revolutionary Organizations/Jacobin Club Network/04_catechisms_materials.md",
+    "The Jacobin Machine_ How a Republic of Virtue Unleashed the Terror and Fell.mp3",
+    "French Revolution/Symbols and Rituals/Public Festivals/04_theatrical_elements.md",
     "Revolutionary_Research/01_Documentation/Index.md",
-    "Chat History/Collapse is Easy - Rebuild is Hard.md",
-    "Revolutionary_Research/09_Quick_Start_Guides/Researcher_Guide.md",
-    "Revolutionary_Research/01_Documentation/00_Overview.md",
-    "Revolutionary_Research/02_Historical_Analysis/01_French_Revolution_Timeline.md",
-    "Revolutionary_Research/02_Historical_Analysis/Great_Fear_Analysis.md",
-    "Revolutionary_Research/08_Research_Templates/01_Economic_Transition_Template.md",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Resilience_Templates.md",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Foundation_Templates.md",
-    "Revolutionary_Research/06_Templates_And_Frameworks/Comprehensive_Framework.md",
-    "Revolutionary_Research/05_Implementation/Phase8_Completion_Summary.md",
-    "Revolutionary_Research/05_Implementation/Phase2_Foundation.md",
-    "Revolutionary_Research/05_Implementation/Phase1_Emergency.md",
-    "Revolutionary_Research/04_AI_Governance/Technical_Specifications.md",
-    "Revolutionary_Research/04_AI_Governance/Economic_AI.md",
-    "Revolutionary_Research/04_AI_Governance/Decision_Support_AI.md",
-    "Revolutionary_Research/03_Modern_Applications/10_Further_Reading.md",
-    "Revolutionary_Research/03_Modern_Applications/Modern_DC_Analysis.md",
-    "Revolutionary_Research/03_Modern_Applications/08_Modern_Parallels.md",
-    "Revolutionary_Research/03_Modern_Applications/03_Post_Revolutionary_Stability.md",
-    "Revolutionary_Research/01_Documentation/CHANGELOG.md",
+    "Theatrical Elements Research.md",
+    "French Revolution/Propaganda Techniques/Message Development/03_religious_formats.md",
+    "French Revolution/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/04_religious_minorities.md",
+    "French Revolution/Dechristianization Campaign/Iconoclasm/02_priest_marriage.md",
+    "French Revolution/Dechristianization Campaign/Church Property/04_iconographic_program.md",
+    "French Revolution/Dechristianization Campaign/Church Property/02_goddess_actresses.md",
+    "French Revolution/Dechristianization Campaign/Calendar Reform/04_poetry_symbolism.md",
+    "French Revolution/Dechristianization Campaign/Calendar Reform/02_decadi_celebrations.md",
+    "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
     "favicon-32.png",
     "favicon-192x192.png"
   ]
