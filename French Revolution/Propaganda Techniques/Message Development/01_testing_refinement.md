@@ -3,7 +3,7 @@
 *Revolutionary Message Development Networks: Testing and Refinement Engineering*
 
   
-  
+  ![[The French Revolution_ How Propaganda Forged a Nation and Fueled the Terror.mp3]]
 
 ## 🎯 Overview: The Laboratory of Revolutionary Message Engineering
 

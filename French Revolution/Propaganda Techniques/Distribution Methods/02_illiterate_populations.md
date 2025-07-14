@@ -2,7 +2,7 @@
 
 *Revolutionary Literacy Networks: Visual and Oral Communication Engineering*
 
-  
+  ![[Weaponizing Sight and Sound_ The French Revolution's Multi-Sensory Communication Playbook.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Literacy Engineering

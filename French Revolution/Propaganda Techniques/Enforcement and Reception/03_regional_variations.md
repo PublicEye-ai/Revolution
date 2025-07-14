@@ -2,7 +2,7 @@
 
 *Revolutionary Regional Networks: Geographic Propaganda Variation and Effectiveness Engineering*
 
-  
+  ![[The French Revolution's Unseen War_ How Words and Propaganda Fractured a Nation.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Regional Engineering

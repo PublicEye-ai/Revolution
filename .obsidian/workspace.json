@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+                "file": "French Revolution/Revolutionary Leaders/Maximilien Robespierre/03_daily_routine_methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_journee_coordination"
+              "title": "03_daily_routine_methods"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Journee ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+                "file": "French Revolution/Revolutionary Leaders/Maximilien Robespierre/03_daily_routine_methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02_journee_coordination"
+              "title": "Backlinks for 03_daily_routine_methods"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+                "file": "French Revolution/Revolutionary Leaders/Maximilien Robespierre/03_daily_routine_methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02_journee_coordination"
+              "title": "Outgoing links from 03_daily_routine_methods"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+                "file": "French Revolution/Revolutionary Leaders/Maximilien Robespierre/03_daily_routine_methods.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "Theatrical Elements Research "
               },
               "icon": "lucide-list",
-              "title": "Outline of 02_journee_coordination"
+              "title": "Outline of 03_daily_routine_methods"
             }
           },
           {
@@ -198,42 +197,42 @@
   },
   "active": "3d0ed9f454dc810a",
   "lastOpenFiles": [
-    "The Jacobin Playbook_ How the French Revolution Mastered Insurrection 1.mp3",
-    "The Jacobin Playbook_ How the French Revolution Mastered Insurrection.mp3",
-    "French Revolution/Dechristianization Campaign/Church Property/01_architectural_plans.md",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/01_consumption_enforcement.md",
-    "French Revolution/Institutional Transformation/Governmental Restructuring/01_complete_transformation.md",
-    "French Revolution/Symbols and Rituals/Revolutionary Symbols/03_symbol_usage.md",
-    "When Red Caps and Cockades Defined a Revolution_ France's Symbol Wars.mp3",
-    "French Revolution/Revolutionary Leaders/Leadership Styles/01_powerful_speeches.md",
-    "Danton's Double-Edged Sword_ Audacity, Massacres, and the French Revolution's Roaring Voice.mp3",
-    "French Revolution/Revolutionary Leaders/Public Persona/03_le_vieux_cordelier.md",
-    "When a Pen Fought the Guillotine_ Camille Desmoulins and the Reign of Terror.mp3",
-    "French Revolution/Revolutionary Leaders/Public Persona/03_distribution_networks.md",
-    "From Street Sensation to State Weapon_ The Rise and Fall of Le Père Duchesne in the French Revolution.mp3",
-    "French Revolution/Revolutionary Leaders/Speech Techniques/04_slogans_catchphrases.md",
-    "Robespierre's Reign of Rhetoric_ How Words Forged Terror and Consumed a Revolution.mp3",
-    "French Revolution/Revolutionary Leaders/Speech Techniques/04_inflammatory_attacks.md",
-    "The _Homer of Filth__ How Hébert's Propaganda Machine Radicalized the French Revolution.mp3",
+    "French Revolution/Revolutionary Organizations/Cordeliers Club/01_meeting_procedures.md",
+    "French Revolution/Revolutionary Organizations/Cordeliers Club/03_paris_sections_relations.md",
     "French Revolution/Revolutionary Organizations/Cordeliers Club/02_street_demonstrations.md",
-    "The Cordeliers Club_ How Radical French Revolutionaries Forged and Fell by the _Eye of Vigilance_.mp3",
-    "French Revolution/Symbols and Rituals/Public Festivals/03_costs_logistics.md",
-    "French Revolution Spectacles_ From Volunteerism to Terror's Command.mp3",
-    "French Revolution/Revolutionary Leaders/Network Building/02_august_10_organization.md",
+    "French Revolution/Revolutionary Organizations/Cordeliers Club/04_radicalization_campaigns.md",
+    "French Revolution/Revolutionary Organizations/Jacobin Club Network/01_correspondence_network.md",
+    "French Revolution/Revolutionary Organizations/Jacobin Club Network/02_club_establishment.md",
     "French Revolution/Revolutionary Organizations/Jacobin Club Network/04_catechisms_materials.md",
-    "The Jacobin Machine_ How a Republic of Virtue Unleashed the Terror and Fell.mp3",
-    "French Revolution/Symbols and Rituals/Public Festivals/04_theatrical_elements.md",
-    "Revolutionary_Research/01_Documentation/Index.md",
-    "Theatrical Elements Research.md",
-    "French Revolution/Propaganda Techniques/Message Development/03_religious_formats.md",
-    "French Revolution/Propaganda Techniques/Enforcement and Reception/03_regional_variations.md",
-    "French Revolution/Dechristianization Campaign/Iconoclasm/04_religious_minorities.md",
-    "French Revolution/Dechristianization Campaign/Iconoclasm/02_priest_marriage.md",
-    "French Revolution/Dechristianization Campaign/Church Property/04_iconographic_program.md",
-    "French Revolution/Dechristianization Campaign/Church Property/02_goddess_actresses.md",
-    "French Revolution/Dechristianization Campaign/Calendar Reform/04_poetry_symbolism.md",
-    "French Revolution/Dechristianization Campaign/Calendar Reform/02_decadi_celebrations.md",
-    "French Revolution/Dechristianization Campaign/Calendar Reform/01_daily_implementation.md",
+    "French Revolution/Revolutionary Organizations/Jacobin Club Network/03_journee_coordination.md",
+    "French Revolution/Revolutionary Organizations/Paris Sections/01_operations_guide.md",
+    "French Revolution/Revolutionary Organizations/Paris Sections/02_journee_coordination.md",
+    "French Revolution/Revolutionary Organizations/Paris Sections/03_surveillance_methods.md",
+    "French Revolution/Revolutionary Organizations/Paris Sections/04_petitioning_campaigns.md",
+    "French Revolution/Symbols and Rituals/Ceremony Design/04_poetry_symbolism.md",
+    "French Revolution/Symbols and Rituals/Ceremony Design/03_practical_effects.md",
+    "French Revolution/Symbols and Rituals/Ceremony Design/02_decadi_celebrations.md",
+    "French Revolution/Symbols and Rituals/Ceremony Design/01_daily_implementation.md",
+    "French Revolution/Revolutionary Leaders/Georges Danton/03_revolutionary_tribunal.md",
+    "French Revolution/Symbols and Rituals/Revolutionary Symbols/04_revolutionary_dress.md",
+    "French Revolution/Violence and Terror/Language of Violence/03_humor_and_violence.md",
+    "French Revolution/Violence and Terror/Language of Violence/04_dehumanization.md",
+    "French Revolution/Violence and Terror/Organization of Terror/01_committee_function.md",
+    "French Revolution/Violence and Terror/Organization of Terror/03_geography_of_terror.md",
+    "French Revolution/Revolutionary Leaders/Camille Desmoulins/04_evolution_to_moderate.md",
+    "Camille Desmoulins_ The Revolutionary Who Condemned His Own Words.mp3",
+    "French Revolution/Revolutionary Leaders/Camille Desmoulins/01_publication_history.md",
+    "French Revolution/Revolutionary Leaders/Georges Danton/04_famous_phrases.md",
+    "Danton's Audacity_ The Words That Saved France and Fueled the September Massacres.mp3",
+    "French Revolution/Revolutionary Leaders/Georges Danton/02_august_10_organization.md",
+    "Danton's Double-Edged Revolution_ Architecting the August 10th Uprising and Unwittingly Fueling the Terror.mp3",
+    "Rewriting Time_ The French Revolution's Poetic, Practical, and Doomed Calendar.mp3",
+    "The Shifting Canvas of Revolution_ How Visual Symbols Defined the French Revolution's Ideals and Terrors.mp3",
+    "Marat_ The Prophet of Violence and the Architects of Revolution.mp3",
+    "The French Revolution's Unholy Pursuit_ When Politics Became Religion.mp3",
+    "Danton's Paradox_ How the Architect of Revolutionary Justice Became Its Victim.mp3",
+    "The French Revolution_ How Propaganda Forged a Nation and Fueled the Terror.mp3",
+    "The French Revolution's Unseen War_ How Words and Propaganda Fractured a Nation.mp3",
     "favicon-32.png",
     "favicon-192x192.png"
   ]

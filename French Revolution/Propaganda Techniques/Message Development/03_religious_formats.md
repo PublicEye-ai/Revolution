@@ -3,7 +3,7 @@
 *Revolutionary Religious Networks: Political Faith Engineering and Sacred Authority Transformation*
 
   
-  
+  ![[The French Revolution's Unholy Pursuit_ When Politics Became Religion.mp3]]
 
 ## 🎯 Overview: The Laboratory of Revolutionary Religious Engineering
 

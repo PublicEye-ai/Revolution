@@ -2,7 +2,7 @@
 
 *Revolutionary Administrator Networks: Personnel Selection and Administrative Engineering*
 
-  
+  ![[From Ideal to Terror_ How the French Revolution Forged the Modern State Administrator.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Administrative Engineering

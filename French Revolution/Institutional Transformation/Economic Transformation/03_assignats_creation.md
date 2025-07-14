@@ -1,7 +1,7 @@
 # 💰 The Assignat: Anatomy of a Revolutionary Currency
 
 *Revolutionary Currency Networks: Monetary Engineering and Economic Engineering*
-
+![[The Assignat_ France's Revolutionary Gamble, Economic Disaster, and Social Transformation.mp3]]
 ## 🎯 Overview: The Laboratory of Revolutionary Monetary Engineering
 
 **Assignat Framework** - **Currency Transformation**: Revolutionary monetary systems for [[../../../Revolutionary_Research/08_Research_Templates/01_Economic_Transition_Template|Economic Transition Template]]

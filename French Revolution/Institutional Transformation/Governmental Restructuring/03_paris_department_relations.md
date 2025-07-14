@@ -2,7 +2,7 @@
 
 *Revolutionary Control Networks: Center-Periphery Relations and Administrative Engineering*
 
-  
+  ![[From Anarchy to Autocracy_ How the French Revolution Centralized Power.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Administrative Control

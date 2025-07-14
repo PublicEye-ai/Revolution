@@ -1,6 +1,6 @@
 # The Pen and the Guillotine: A Complete Analysis of the Journalism of Camille Desmoulins
 
-  
+  ![[Camille Desmoulins_ The Pen, The Revolution, and The Guillotine.mp3]]
   
 
 ## I. Introduction: The Journalist as Revolutionary

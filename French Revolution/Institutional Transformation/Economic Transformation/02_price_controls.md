@@ -2,6 +2,7 @@
 
 *Revolutionary Price Networks: Economic Control and Market Engineering*
 
+![[The Reign of Terror's Economic Experiment_ When France's Law of the General Maximum Tried to Control Everything.mp3]]
 ## 🎯 Overview: The Laboratory of Revolutionary Economic Engineering
 
 **Price Control Framework** - **Market Transformation**: Revolutionary price control systems for [[../../../Revolutionary_Research/08_Research_Templates/01_Economic_Transition_Template|Economic Transition Template]]

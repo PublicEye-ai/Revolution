@@ -3,7 +3,7 @@
 *Revolutionary Resistance Networks: Musical Counter-Propaganda and Cultural Opposition Engineering*
 
   
-  
+  ![[The French Revolution's Sonic Battlefield_ How Songs Ignited and Subverted a Nation.mp3]]
 
 ## 🎯 Overview: The Laboratory of Revolutionary Resistance Engineering
 

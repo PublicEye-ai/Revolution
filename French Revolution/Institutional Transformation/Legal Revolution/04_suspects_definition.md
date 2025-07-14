@@ -2,7 +2,7 @@
 
 *Revolutionary Suspect Networks: Fear Engineering and Political Persecution*
 
-  
+  ![[The Architecture of Fear_ How the French Revolution's Reign of Terror Built a System of Suspicion and Persecution.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Fear Engineering

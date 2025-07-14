@@ -2,7 +2,7 @@
 
 *Revolutionary Colporteur Networks: Mobile Distribution and Communication Engineering*
 
-  
+  ![[The Colporteurs_ How Walking Bookstores Sparked the French Revolution.mp3]]
   
 
 ## 🎯 Overview: The Laboratory of Revolutionary Communication Engineering
